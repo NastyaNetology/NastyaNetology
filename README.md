@@ -5,10 +5,12 @@ Hi, I'm Anastasia. Business Analyst with 6+ years of experience across healthcar
 - Skilled in data analysis and reporting: KPI dashboards, SQL queries, and automated reports in Power BI/Tableau.
 - Love clean documentation and reproducible analysis.
 
-### Tools
-Languages: SQL (PostgreSQL, MySQL), Python  
-Databases: PostgreSQL, MySQL, SQLite, BigQuery (basics)  
-Visualization: Excel/Google Sheets, Tableau 
+### Skills & Tools
+
+- Business Analysis & Documentation: BPMN, User Stories, AS-IS/TO-BE Analysis, Use Cases, UML
+- Data & Analytics: SQL, Python (Pandas, NumPy), Power BI, Tableau, Excel/CSV, Google Sheets
+- APIs & Integrations: REST API, JSON, HTTP, Postman
+- Collaboration & Visualization: Jira, Confluence, Miro, Figma
 
 ### Case Studies & Projects
 

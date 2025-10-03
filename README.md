@@ -3,7 +3,7 @@
 Hi, I'm Anastasia. Business Analyst with 6+ years of experience across healthcare, FMCG (Nestlé), e-commerce, and B2B marketplaces.
 - I explore business questions with **SQL** and **Python**, turning raw data into actionable solutions.
 - Skilled in data analysis and reporting: KPI dashboards, SQL queries, and automated reports in Power BI/Tableau.
-- Love clean documentation and reproducible analysis.
+- Love  **AI-tools** to accelerate documentation, prototyping, and reproducible analysis;
 
 ### Tools
 Languages: SQL (PostgreSQL, MySQL), Python  

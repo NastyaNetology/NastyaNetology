@@ -9,7 +9,6 @@ Hi, I'm Anastasia. Business Analyst with 6+ years of experience across healthcar
 Languages: SQL (PostgreSQL, MySQL), Python  
 Databases: PostgreSQL, MySQL, SQLite, BigQuery (basics)  
 Visualization: Excel/Google Sheets, Tableau 
-Other: Git & GitHub
 
 ### Case Studies & Projects
 

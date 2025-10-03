@@ -3,7 +3,7 @@
 Business Analyst with 6+ years of experience across healthcare, e-commerce, and B2B marketplaces.
 - I explore business questions with **SQL** and **Python**, turning raw data into actionable solutions.
 - Skilled in data analysis and reporting: KPI dashboards, SQL queries, and automated reports in Power BI/Tableau.
-- Love clean documentation and reproducible analysis.
+- Love turning data into smart solutions.
 
 ### Skills & Tools
 

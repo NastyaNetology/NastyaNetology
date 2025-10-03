@@ -1,7 +1,7 @@
 
 <h1 align="center">🙋🏻‍♀️ Introducing Myself </h1>
 
-Hi, I'm Anastasia. I'm a Business Analyst with 6+ years of experience across healthcare, e-commerce, FMCG (Nestlé), and B2B marketplaces.  
+Hi, I'm Anastasia. I'm a Business Analyst with 6+ years of experience across healthcare, e-commerce, and B2B marketplaces.  
 - I explore business questions with **SQL** and **Python**, turning raw data into actionable solutions.
 - Skilled in data analysis and reporting: KPI dashboards, SQL queries, and automated reports in Power BI/Tableau.
 - Love clean documentation and reproducible analysis.

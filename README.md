@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anastasia Kalacheva</h1>
 
-Business Analyst with 6+ years of experience  multiple domains (healthcare, e-commerce, and B2B marketplaces).
+Business Analyst with 6+ years of experience across multiple domains (healthcare, e-commerce, and B2B marketplaces).
 - I explore business questions with **SQL** and **Python**, turning raw data into actionable solutions.
 - Skilled in data analysis and reporting: KPI dashboards, SLA panels, and automated reports in **Power BI/Tableau**.
 - Love turning **AI & ML**  into impacy.

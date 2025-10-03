@@ -23,6 +23,6 @@ Other: Git & GitHub
 
 ---
 
-### 📬 Contact
-- Email: kalacheva.anastasya@gmail.comm  
-- LinkedIn: http://www.linkedin.com/in/kalacheva
+### 📌Open for new opportunities
+Let’s connect: kalacheva.anastasya@gmail.com
+LinkedIn: http://www.linkedin.com/in/kalacheva

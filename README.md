@@ -1,5 +1,5 @@
 
-<h1 align="center">🙋🏻‍♀️ Introducing Myself </h1>
+<h1 align="center">Introducing Myself </h1>
 
 Hi, I'm Anastasia. I'm a Business Analyst with 6+ years of experience across healthcare, e-commerce, and B2B marketplaces.  
 - I explore business questions with **SQL** and **Python**, turning raw data into actionable solutions.

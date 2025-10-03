@@ -1,9 +1,9 @@
 
 <h1 align="center">🙋🏻‍♀️ Introducing Myself </h1>
 
-Hi, I'm Anastasia. Business & Data Analyst with expertise in data analysis and reporting, database design, and data modelling.
-- I explore business questions with **SQL** and **Python**, turning raw data into clear answers.
-- Comfortable with **query optimization**, **reporting**, and **data modelling**.
+Hi, I'm Anastasia. I'm a Business Analyst with 6+ years of experience across healthcare, e-commerce, FMCG (Nestlé), and B2B marketplaces.  
+- I explore business questions with **SQL** and **Python**, turning raw data into actionable solutions.
+- Skilled in data analysis and reporting: KPI dashboards, SQL queries, and automated reports in Power BI/Tableau.
 - Love clean documentation and reproducible analysis.
 
 ### 🛠️ Tools

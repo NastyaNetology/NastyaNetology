@@ -1,4 +1,4 @@
-<h1 align="center">🙋🏻‍♀️ Hi, I'm Anastasia Kalacheva</h1>
+<h1 align="center">Hi, I'm Anastasia Kalacheva</h1>
 
 Business Analyst with 6+ years of experience across healthcare, e-commerce, and B2B marketplaces.
 - I explore business questions with **SQL** and **Python**, turning raw data into actionable solutions.

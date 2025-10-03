@@ -5,13 +5,13 @@ Hi, I'm Anastasia. Business Analyst with 6+ years of experience across healthcar
 - Skilled in data analysis and reporting: KPI dashboards, SQL queries, and automated reports in Power BI/Tableau.
 - Love clean documentation and reproducible analysis.
 
-### 🛠️ Tools
+### Tools
 Languages: SQL (PostgreSQL, MySQL), Python  
 Databases: PostgreSQL, MySQL, SQLite, BigQuery (basics)  
 Visualization: Excel/Google Sheets, Tableau 
 Other: Git & GitHub
 
-### 📚 Case Studies & Projects
+### Case Studies & Projects
 
 - [E-commerce_SQL_Analysis](https://github.com/NastyaNetology/E-commerce_SQL_Analysis) — SQL data analysis
 - [Healthcare_No-Show-Prediction](https://github.com/NastyaNetology/Medical-No-Show-Prediction) — Python No-Show Prediction Analysis

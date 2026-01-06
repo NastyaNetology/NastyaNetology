@@ -13,7 +13,7 @@ Business Analyst with 6+ years of experience across multiple domains (healthcare
 - Collaboration & Visualization: Jira, Confluence, Miro, Figma
 
 ### Case Studies & Projects
-
+- [AI-assistant](https://github.com/NastyaNetology/local-ai-assistant) — local AI assistant (based on RAG)
 - [E-commerce_SQL_Analysis](https://github.com/NastyaNetology/E-commerce_SQL_Analysis) — SQL data analysis
 - [Healthcare_No-Show-Prediction](https://github.com/NastyaNetology/Medical-No-Show-Prediction) — Python No-Show Prediction Analysis
 - [LLM_DisasterTweetDetection](https://github.com/NastyaNetology/DisasterTweetDetection) — Classify tweets as disaster or non-disaster  
